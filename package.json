@@ -1,0 +1,12 @@
+{
+  "name": "aob-neurowellness",
+  "version": "0.1.0",
+  "description": "AOB Neurowellness Stack",
+  "scripts": {
+    "test": "jest --passWithNoTests",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
